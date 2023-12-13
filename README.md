@@ -1,8 +1,8 @@
 # Blogify
 It is a blogging website where users can share their thoughts and ideas to other users through this platform.Users can create, view, and interact with posts, including liking and disliking others' content.The system includes an admin interface to regulate posts and users.
 
-## Technologies Used: HTML,CSS,Bootstrap,PHP
-## Database Used: MySQL
+## Technologies used: HTML,CSS,Bootstrap,PHP
+## DBMS used: MySQL
 
 ## Steps to Run:
 1)You need to download this directory or clone this repository.
