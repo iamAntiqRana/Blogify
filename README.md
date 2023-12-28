@@ -12,3 +12,6 @@ It is a blogging website where users can share their thoughts and ideas to other
 3)Open xaamp control panel and start apache and MySQL service.
 
 4)Open your browser and go to the respective path where your project exist.(Type "localhost/folder name" in your browser and hit)
+
+
+![ezgif com-crop](https://github.com/iamAntiqRana/Blogify/assets/112154540/3d83e0c0-0d76-480a-ad47-9f37294ce580)
